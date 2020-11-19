@@ -1,0 +1,83 @@
+body {
+  background-color:#eee;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+h1 {
+  color: black;
+  font-family:courier;
+  padding: 10px;
+}
+
+nav {
+  background-color: navy;
+  color: white;
+  float:left;
+  padding: 10px;
+  padding-right:30px;
+  height: 100vh;
+  position: fixed;
+}
+
+nav li {
+margin-top: 20px;
+}
+
+section{
+ float:left;
+ padding-left:20vh;
+}
+
+.quote{
+  font-family:courier;
+  font-size:30px;
+  font-style:italic;
+}
+
+.profession{
+  font-family:"Lucida Console";
+  margin-left:10px;
+  padding: 10px 0;
+  color: red;
+}
+
+p {
+  padding: 5px;
+  border-style: solid;
+  border-color: red;
+}
+
+figure {
+    display: inline-block;
+    margin: 20px;
+    padding: 40px;
+}
+figure img {
+    height:500px;
+    width:350px;
+}
+figure figcaption {
+    font-style:italic;
+    margin-top:5px;
+    text-align:center;
+}
+
