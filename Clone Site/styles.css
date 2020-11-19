@@ -1,11 +1,11 @@
 body {
   background-color:#eee;
+  max-width: 800px;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
-  max-width: 1000px;
 }
 
 th {
