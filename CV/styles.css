@@ -76,6 +76,8 @@ img:hover {
 .plainText{
   font-size: 13px;
   margin-top: 5px;
+  padding-right: 5px;
+  padding-left: 10px;
 }
 
 .btn{
@@ -126,6 +128,8 @@ img:hover {
   margin-top: 0px;
   font-size: 14px;
   margin-bottom: 12px;
+  padding-right: 5px;
+  padding-left: 10px;
 }
 
 .workSubTitle{
@@ -134,11 +138,11 @@ img:hover {
   font-weight: normal;
   font-style: italic;
   margin-bottom: 10px;
+  padding-right: 5px;
+  padding-left: 10px;
 }
 
 .list{
   margin-top: -10px;
   font-size: 13px;
 }
-
-.li{}
