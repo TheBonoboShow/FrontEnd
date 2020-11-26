@@ -28,6 +28,7 @@ img:hover {
   width: 100%;
   max-width: 800px;
   overflow: hidden;
+  margin: auto;
 }
 
 .leftPanel{
@@ -78,6 +79,7 @@ img:hover {
   margin-top: 5px;
   padding-right: 5px;
   padding-left: 10px;
+  text-align: justify;
 }
 
 .btn{
